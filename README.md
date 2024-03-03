@@ -11,7 +11,7 @@ This repository is not complete, and hopefully it never is as there are new ecos
 
 ## How to Contribute
 
-There's a couple of ways you can help grow this initiative.
+There's a couple of ways you can help grow this initiative
 
 ### Option 1: Opening a Pull Request
 
